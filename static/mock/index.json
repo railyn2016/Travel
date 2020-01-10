@@ -1,0 +1,94 @@
+{
+  "ret": true,
+  "data": {
+
+    "swiperList": [{
+    "id" :"0001",
+    "imgUrl":"http://img1.qunarzz.com/piao/fusion/1901/81/f65f67c168e5f102.jpg_750x200_2ec00db3.jpg"
+    },{
+    "id" :"0002",
+    "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/2d54dc8f236a5ef2014af33129dc6c73.jpg_750x200_8d96a0bd.jpg"
+    }],
+    "iconList": [{
+      "id":"001",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", 
+      "desc":"景点门票"
+    },
+    {
+      "id":"0002",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+      "desc":"泡温泉"
+    },
+    {
+        "id":"003",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc":"成都游"
+    },
+    {
+        "id":"0004",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+        "desc":"川剧变脸"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+      "desc": "峨眉山"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fc/b10a6b2e4f0fe102.png",
+      "desc": "滑雪"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "desc": "一日游"
+    },
+    {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png",
+      "desc": "成都熊猫基地"
+    },
+    {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+      "desc": "室内场馆"
+     }],
+    "recommendList": [{
+      "id":"001",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1512/3a/3ab83c0358208e8d90.img.jpg_200x200_14e2fbfd.jpg",
+      "title":"花水湾四季温泉谷",
+      "desc":"怎么说呢，也许去的时间不对吧，酒店后山真的有很多池子，但是全都空的或是很久的脏水，只开了两个池子，而且温度都不高，整体有些小小的失望，看着两个冷冷清清的池子，已经都没了入住时的兴奋，根本就没有泡汤的欲望，后来果断晚上去四季温泉谷去泡的汤。房间呢还算干净，星空主题房孩子很喜欢，但是房间隔音真的很差，我们的房间临街吧，晚上有车开过，听上去声音都很大，总之一分钱一分货吧，以后还是会去花水湾泡温泉，但是这家可能不会再选择了，还是去名人或是第一村大酒店。"
+          },
+          {
+      "id":"002",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/201301/16/ae96ce4058bd5cf093835fbb.jpg_200x200_e4cb9743.jpg",
+      "title":"青城道温泉",
+      "desc":"这里风景优美，都江堰风景区很有历史文化意义，特别喜欢！中午吃得很好，罗导游认真负责，讲解得非常不错，很到位，路上交通十分便捷，很值得一去"
+          },
+          {
+      "id":"003",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1508/53/53c486532f848d71.img.jpg_200x200_c4be246c.jpg",
+      "title":"西岭雪山",
+      "desc":"几年没看过雪景了，特意赶在元旦假期前一天带着娃娃一起来玩，人也不是特别多，基本上不用排队，娃娃第一次看雪，玩的很开心，让人流连忘返。另外导游小陶（小岳岳）讲解也到位，各种注意事项都有说到，建议也给的不错，愉快的一次体验，感谢！"
+     }],
+     "weekendList": [{
+      "id": "001",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1505/63/0ffcb5c329a19c.jpg_r_640x214_93fd1e5a.jpg",
+      "title":"花水湾四季温泉谷",
+      "desc":"怎么说呢，也许去的时间不对吧，酒店后山真的有很多池子，但是全都空的或是很久的脏水，只开了两个池子，而且温度都不高，整体有些小小的失望，看着两个冷冷清清的池子，已经都没了入住时的兴奋，根本就没有泡汤的欲望，后来果断晚上去四季温泉谷去泡的汤。房间呢还算干净，星空主题房孩子很喜欢，但是房间隔音真的很差，我们的房间临街吧，晚上有车开过，听上去声音都很大，总之一分钱一分货吧，以后还是会去花水湾泡温泉，但是这家可能不会再选择了，还是去名人或是第一村大酒店。"
+          },
+          {
+      "id": "002",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1505/a2/78e4dbcfd45a6d.jpg_r_640x214_7a62b06a.jpg",
+      "title":"成都必打卡",
+      "desc":"这里风景优美，都江堰风景区很有历史文化意义，特别喜欢！中午吃得很好，罗导游认真负责，讲解得非常不错，很到位，路上交通十分便捷，很值得一去"
+          },
+          {
+      "id": "003",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1505/98/47e8d7bdbed162.jpg_r_640x214_f6059302.jpg",
+      "title":"有温泉就是任性",
+      "desc":"几年没看过雪景了，特意赶在元旦假期前一天带着娃娃一起来玩，人也不是特别多，基本上不用排队，娃娃第一次看雪，玩的很开心，让人流连忘返。另外导游小陶（小岳岳）讲解也到位，各种注意事项都有说到，建议也给的不错，愉快的一次体验，感谢！"
+    }]
+  }
+}
